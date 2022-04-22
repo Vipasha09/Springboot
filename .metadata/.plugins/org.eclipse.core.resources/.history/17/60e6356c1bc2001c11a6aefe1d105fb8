@@ -1,0 +1,7 @@
+package com.employee.first.app.service;
+
+import com.employee.first.app.model.Employee;
+
+public interface EmployeeService {
+	Employee saveEmployee(Employee employee);
+}

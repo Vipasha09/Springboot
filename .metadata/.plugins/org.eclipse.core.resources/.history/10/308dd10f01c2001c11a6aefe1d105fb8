@@ -1,0 +1,5 @@
+package com.employee.first.app.repository;
+
+public interface EmployeeRepository {
+
+}

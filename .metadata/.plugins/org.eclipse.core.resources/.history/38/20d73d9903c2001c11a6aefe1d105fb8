@@ -1,0 +1,10 @@
+package com.employee.first.app.service.impl;
+
+import org.springframework.stereotype.Service;
+
+import com.employee.first.app.service.EmployeeService;
+
+@Service
+public class EmployeeServiceImpl implements EmployeeService {
+
+}
